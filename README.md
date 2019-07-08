@@ -1,5 +1,5 @@
 # laravel-webwallet
-API documentation for DEN wallet, built on the laravel php framework
+API documentation for DEN wallet: https://wallet.dencoin.io, built on the foundation of laravel's php framework
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></a></p>
 
