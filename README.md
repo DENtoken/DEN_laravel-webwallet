@@ -1,6 +1,3 @@
-# laravel-webwallet
-API documentation for DEN wallet: https://wallet.dencoin.io, built on the foundation of laravel's php framework
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></a></p>
 
 <p align="center">
@@ -46,4 +43,3 @@ Please review [our security policy](https://github.com/laravel/framework/securit
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
