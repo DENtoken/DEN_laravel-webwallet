@@ -1,6 +1,6 @@
 # e-wallet
 
-<img src="DEN.JPG">
+<img src="/DEN.jpg">
 
 DEN Wallet
 Customizable Web-Wallet Developed on Laravel Infrastructure. (visit https://wallet.dencoin.io to run diagnostics)
